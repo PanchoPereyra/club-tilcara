@@ -4,9 +4,9 @@ import './Actividades'
 function Actividades() {
 
     const items = [
-        { title: 'Rugby', img: './public/img/prueba2.jpeg' },
-        { title: 'Hockey', img: './public/img/hockey.jpg' },
-        { title: 'Gym', img: './public/img/gimnasio.png' },
+        { title: 'Rugby', img: '/img/imagenes-generales/prueba2.jpeg' },
+        { title: 'Hockey', img: '/img/imagenes-generales/hockey.jpg' },
+        { title: 'Gym', img: '/img/imagenes-generales/gimnasio.png' },
     ];
 
     return (

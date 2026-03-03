@@ -17,7 +17,7 @@ function Navbar() {
       {/* LOGO LADO IZQUIERDO */}
       <div class="flex items-center">
         <img
-          src="/logo-club.png" // Buscar una imagen del escudo
+          src="/img/imagenes-generales/Escudo-Tilcara-solo.png"
           alt="Logo"
           class="h-16 w-auto"
         />
