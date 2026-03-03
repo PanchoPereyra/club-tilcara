@@ -1,0 +1,9 @@
+[build]
+  # Directorio donde Netlify debe entrar para instalar dependencias
+  base = "Front"
+
+  # Comando para construir el sitio de Vite
+  command = "npm run build"
+
+  # Carpeta que contiene el index.html final después del build
+  publish = "Front/dist"
